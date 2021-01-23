@@ -1,3 +1,3 @@
 install.packages(
-  "readr"
+  c("readr", "tidyr", "ggplot2")
 )
